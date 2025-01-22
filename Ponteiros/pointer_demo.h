@@ -1,8 +1,9 @@
 /************************************************************
 * @fileoverview Demonstrações didáticas de ponteiros
 * @module pointer_demo
-* @path c:/Users/Rahman/Documents/_Projetos/Cteste/pointer_demo.h
+* @path c:/Users/Rahman/Documents/_Projetos/Estudo em C/Ponteiros/pointer_demo.h
 * @requires 
+* - SDL3/SDL.h
 * - graphics.h
 * @description
 * Define as estruturas e funções para demonstrações

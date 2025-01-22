@@ -1,7 +1,7 @@
 /************************************************************
 * @fileoverview Funções para renderização gráfica do programa
 * @module graphics
-* @path c:/Users/Rahman/Documents/_Projetos/Cteste/graphics.h
+* @path c:/Users/Rahman/Documents/_Projetos/Estudo em C/Ponteiros/graphics.h
 * @requires SDL3/SDL.h
 * @description
 * Este arquivo contém as funções necessárias para renderizar

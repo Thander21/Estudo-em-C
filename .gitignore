@@ -1,0 +1,30 @@
+# Arquivos compilados
+*.exe
+*.out
+*.o
+*.obj
+
+# Arquivos de debug
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Diretórios de build
+build/
+bin/
+obj/
+
+# Arquivos de IDE/Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Arquivos de dependências
+*.d
