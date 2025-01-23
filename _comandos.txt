@@ -6,4 +6,7 @@ clang arquivo.c -o saida.exe
 Executar:
 .\arquivo.exe
 
-teste
+conectar git quando der erro de autenticao
+git config --global user.email "rahman13@gmail.com"
+git config --global user.name "Thander21"
+git remote set-url origin https://github.com/Thander21/Estudo-em-C.git
